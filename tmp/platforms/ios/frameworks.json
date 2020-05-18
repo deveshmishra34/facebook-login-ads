@@ -1,0 +1,12 @@
+{
+    "CFNetwork.framework": 1,
+    "AdSupport.framework": 2,
+    "StoreKit.framework": 2,
+    "CoreMotion.framework": 2,
+    "CoreImage.framework": 2,
+    "QuartzCore.framework": 2,
+    "OpenGLES.framework": 2,
+    "Security.framework": 2,
+    "libc++.tbd": 1,
+    "libxml2.tbd": 1
+}
